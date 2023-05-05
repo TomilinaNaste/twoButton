@@ -18,4 +18,4 @@ redButton.onclick = function checkClickButton() {
         changeVisibilityTitle();
         data = true; 
     }
-}
+} 
